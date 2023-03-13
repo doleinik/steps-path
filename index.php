@@ -18,7 +18,7 @@ $matrix = [
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <link href="style.css" rel="stylesheet" type="text/css">
+    <link href="assets/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 <div class="flex flex-col gap-[10px]">
@@ -37,6 +37,6 @@ $matrix = [
 </div>
 <div id="steps" class="text-center">
 
-    <script src="script.js"></script>
+    <script src="assets/script.js"></script>
 </body>
 </html>
